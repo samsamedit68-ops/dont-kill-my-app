@@ -1,4 +1,4 @@
----
+4b0ae4dc2e373b3de2bd963e55533b29d4c87d8c---
 manufacturer:
     - general
 ---
